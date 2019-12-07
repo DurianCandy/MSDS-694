@@ -1,5 +1,5 @@
-__pycache__/*
+**/__pycache__/*
 .idea/*
-.pytest_cache/*
-.ipynb_checkpoints/*
+**/.pytest_cache/*
+**/.ipynb_checkpoints/*
 data/*
