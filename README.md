@@ -1,5 +1,5 @@
 ## USF MSDS 694: Distributed Computing
-Final Project: U.S. Health Insurance and Rental Price
+Final Project: Health Insurance Marketplace Using Census and Rent Cost
 
 ###### Team Members
 * Sunny Kwong ([@kwongsunny7](https://github.com/kwongsunny7))
